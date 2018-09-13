@@ -1,4 +1,4 @@
-﻿# Русский перевод книги Майкла Хейдта Learning Pandas
+﻿# Обновленное, дополненное издание книги Майкла Хейдта Learning Pandas
 ![enter image description here](https://lh3.googleusercontent.com/WXTjTI7htNdgwIk0W-qyR2kO4LLd45BHi5ow0LrnzIWR3KJ2lmtLYRe7CVgceBWCDnyOGACXvjfy)
 
 **О содержании книги**
